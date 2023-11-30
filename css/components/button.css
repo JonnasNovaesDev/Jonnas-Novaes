@@ -1,0 +1,17 @@
+.button{
+    display: inline-block;
+    background-color: #FC98EC;
+    box-shadow: 5px 5px 0px 0px #000;
+    height: 60px;
+    width: 170px;
+    line-height: 60px;
+    font-size: 20px;
+    font-family: "Fredoka", "Arial", "sans-serif";
+    text-align: center; 
+    transition: transform 100ms cubic-bezier(0.42, 0, 0.85, 3.93);
+    text-decoration: none;
+    color: #fff; 
+}
+.button:hover{
+    transform: scale(1.05, 1.05);
+}

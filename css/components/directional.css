@@ -1,0 +1,21 @@
+.directional{
+    display: inline-flex;
+    align-items: center;
+    color: #FFF;
+    font-size: 20px;
+    font-family: "Fredoka", "Arial", "sans-serif";
+    font-weight: 500;
+    text-decoration-line: none;
+    text-align: center;
+    margin-right: 30px;
+}
+.directional::before{
+    content: "";
+    background-color: #FC98EC;
+    margin: 10px;
+    width: 10px;
+    height: 10px;
+}
+.directional:hover{
+    text-decoration: underline #FC98EC;
+}
