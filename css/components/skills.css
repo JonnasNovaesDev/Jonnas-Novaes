@@ -1,0 +1,12 @@
+.skills{
+    background-color: #3A4042;
+    box-sizing: border-box;
+    height: 790px;
+    border-bottom: 10px solid #FB4299;   
+}
+
+.skills .sub_subtitle{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 52px;
+}
