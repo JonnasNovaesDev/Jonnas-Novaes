@@ -1,0 +1,17 @@
+.progress_bar{
+    background-color: #fff;
+    border: 5px solid #000;
+    width: 320px;
+    height: 40px;
+}
+
+.progress_bar .progress_css{
+    background-color: #FB4299;
+    height: inherit;
+    width: 100px;
+}
+.progress_bar .progress_html{
+    background-color: #FB4299;
+    height: inherit;
+    width: 80px;
+}

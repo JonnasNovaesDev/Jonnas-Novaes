@@ -1,0 +1,15 @@
+.skill_list{
+    display: flex;
+    margin: 0px 235px;
+    padding-bottom: 20px;
+}
+
+.skill_list .sub_subtitle{
+    padding-top: 0;
+    padding-bottom: 10px;
+    justify-content: start;
+}
+
+.skill_list .img_skill{
+    padding-right: 15px;
+}
