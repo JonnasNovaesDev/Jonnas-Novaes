@@ -5,3 +5,11 @@
     font-size: 36px;
     font-weight: 400;
 }
+
+.title.-second{
+    color: #fff;
+    text-shadow: none;
+    padding-top: 40px;
+    font-size: 40px;
+    font-weight: 400;
+}

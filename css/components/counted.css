@@ -1,0 +1,15 @@
+.counted {
+    display: flex;
+    width: 1500px;
+    height: 125px;
+    margin-top: 40px;
+    text-align: left;
+} 
+
+.container_counted .counted_title{
+    color: white;
+    font-family: "Fredoka", "Arial", "sans-serif";
+    font-size: 20px;
+    font-weight: 240;
+}
+  

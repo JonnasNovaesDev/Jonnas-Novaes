@@ -1,6 +1,6 @@
 .skill{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     height: 100px;
     padding-top: 20px;
 }
